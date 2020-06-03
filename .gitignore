@@ -1,0 +1,27 @@
+# Mac OSX files
+client/.DS_Store
+server/.DS_STORE
+/.DS_STORE
+
+# Node modules and distr folders
+client/node_modules/
+client/dist/
+client/public/
+server/node_modules/
+server/dist/
+server/public/
+
+# Log files
+client/npm-debug.log*
+client/yarn-debug.log*
+client/yarn-error.log*
+server/npm-debug.log*
+server/yarn-debug.log*
+server/yarn-error.log*
+
+
+# Editor File
+.vscode/
+client/.vscode
+server/.vscode
+
