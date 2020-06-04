@@ -39,4 +39,4 @@ To start server from repo directory: `cd client && npm run serve`
 
 Navigate to the url returned from running the client code.
 
-Another option is localhost:3000 (this didn't work for me).
+Another option, though it didn't work for me, is the following url: `localhost:3000`
